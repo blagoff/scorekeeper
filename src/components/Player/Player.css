@@ -1,0 +1,17 @@
+span{
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Player:nth-child(odd){
+    background: green;
+}
+
+.Player:first-child{
+    background: blue;
+}
+
+.Player:nth-child(2){
+    background: red;
+}

@@ -1,0 +1,15 @@
+.AddPlayer{
+    margin-left: 40px;
+}
+
+.AddPlayer__input{
+    width: 150px;
+    background: silver;
+
+}
+
+.AddPlayer__submit{
+    background: silver;
+    color: white;
+    height: 20px;
+}
